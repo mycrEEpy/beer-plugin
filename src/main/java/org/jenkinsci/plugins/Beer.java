@@ -50,6 +50,9 @@ public class Beer implements UnprotectedRootAction {
             "man.jpg",
             "starwars-beer.gif",
             "drinking-beer.gif",
-            "pouring-beer.gif"
+            "pouring-beer.gif",
+            "homer.gif",
+            "inhale.gif",
+            "angry-dog.gif"
     };
 }
